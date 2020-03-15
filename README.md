@@ -7,6 +7,6 @@ In the last few years, various platforms have opened up their walled-garden rest
 However, the prospect of cross-platform play is still relatively new, and it's not an easy thing to implement on the developer side, that there's relatively few options that support ALL modern platforms -- but there are those that support a subset.
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/JavaScript"></script>
-<script src="/json.js" type="text/JavaScript"></script>
+<script src="./json.js" type="text/JavaScript"></script>
  
 <div id="text"></div>
